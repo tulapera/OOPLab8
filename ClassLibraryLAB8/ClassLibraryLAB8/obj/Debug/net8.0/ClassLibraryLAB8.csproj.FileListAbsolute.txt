@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\bin\Debug\net8.0\ClassLibraryLAB8.deps.json
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\bin\Debug\net8.0\ClassLibraryLAB8.dll
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\bin\Debug\net8.0\ClassLibraryLAB8.pdb
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ClassLibraryLAB8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ClassLibraryLAB8.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ClassLibraryLAB8.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ClassLibraryLAB8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ClassLibraryLAB8.dll
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\refint\ClassLibraryLAB8.dll
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ClassLibraryLAB8.pdb
+C:\Users\Admin\source\repos\ClassLibraryLAB8\ClassLibraryLAB8\obj\Debug\net8.0\ref\ClassLibraryLAB8.dll
